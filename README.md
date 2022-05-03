@@ -6,7 +6,7 @@
 
 ## Schema Diagram
 
-![diagram](https://raw.githubusercontent.com/microverseinc/curriculum-databases/fb447dded0a9593077946f9b5e777b8c3983ea76/db-structure/images/clinic_diagram.png?token=GHSAT0AAAAAABO5T3DMA6L4YJZPGJ475NYUYTRPZOQ)
+![diagram](./clinic_diagram.png)
 
 
 ## Getting Started
