@@ -14,6 +14,8 @@
 This repository includes files with plain SQL that can be used to recreate a database:
 
 - Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
+- Use [data.sql](./data.sql) to create populates tables with sample data.
+- Use [query.sql](./query.sql) to get some data.
 
 
 ## Authors
